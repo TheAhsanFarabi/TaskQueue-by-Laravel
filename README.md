@@ -10,9 +10,8 @@ TaskQueue is a simple and efficient Todo List application built with Laravel. It
 - Responsive design using Bootstrap
 - Font Awesome icons for better UI/UX
 
-## Installation
-
-Follow these steps to set up the project locally.
+## Screenshot
+![image](https://github.com/TheAhsanFarabi/TaskQueue-by-Laravel/blob/main/TaskQueue.png)
 
 ### Prerequisites
 
