@@ -26,8 +26,8 @@ Follow these steps to set up the project locally.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/taskqueue.git
-    cd taskqueue
+    git clone https://github.com/TheAhsanFarabi/TaskQueue.git
+    cd TaskQueue
     ```
 
 2. **Install dependencies:**
